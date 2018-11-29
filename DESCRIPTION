@@ -1,0 +1,11 @@
+Package: AnalysisTool
+Type: Package
+Title: Data Analysis Project Data Cleaning, Collating, Analysis, and Modeling toolset
+Version: 0.0.1
+Author: Gao xinzhen
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Data analysis project data cleaning, collating, analysis, and modeling toolset. 
+This tool set needs constant maintenance in practice
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
